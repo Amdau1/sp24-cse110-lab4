@@ -45,3 +45,4 @@ F) For true === Boolean(2) it will output true because Boolean(2) = true and tru
 ## Question 15 ##  
 The == comparison ignors the type of the variable i.e 1 == '1' will return true  
 The === comparison doesn't ignore the type of the variable i.e 1 === '1' will return false  
+## Question 17 ##  
