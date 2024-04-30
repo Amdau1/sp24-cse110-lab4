@@ -46,3 +46,4 @@ F) For true === Boolean(2) it will output true because Boolean(2) = true and tru
 The == comparison ignors the type of the variable i.e 1 == '1' will return true  
 The === comparison doesn't ignore the type of the variable i.e 1 === '1' will return false  
 ## Question 17 ##  
+The result that the code will output is [ 2, 4, 6 ]. We get this result because the function modifyArray itterates through the given array and calles the doSomething function for each element in the array. And the doSomething function multiplies each element by 2. Hence thats how we got the resulting array, it is just the original array multiply by 2.  
