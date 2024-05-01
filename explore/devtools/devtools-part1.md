@@ -13,6 +13,6 @@ cache-bur-kbur8200065-BUR was the type of server it came from
 ## Question 7 ##  
 The file was last modified on Thu, 15 Sep 2022 22:44:30 GMT  
 ## Question 8 ##  
-
+The content type of the file is fetch.
 ## Question 9 ##  
 fetchData was the function inside the initiating file that made the request
